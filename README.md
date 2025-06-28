@@ -32,5 +32,5 @@ This dashboard provides insights from a survey of 630 data professionals across 
 
 ##  Connect with Me
 
-If you enjoyed this project, check out more on my [Keerthi's GitHub Profile](https://github.com/Keerthikadiyala91/Data-Professional-Survey_-Power-BI/edit/main/README.md) or connect with me on [Keerthi's LinkedIn](https://www.linkedin.com/in/keerthi-k-47868154/).
+If you enjoyed this project, check out more on my [Keerthi's GitHub Profile](https://github.com/Keerthikadiyala91) or connect with me on [Keerthi's LinkedIn](https://www.linkedin.com/in/keerthi-k-47868154/).
 
